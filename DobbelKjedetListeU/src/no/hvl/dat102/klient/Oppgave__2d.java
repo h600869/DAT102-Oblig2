@@ -22,7 +22,7 @@ public class Oppgave__2d {
 			liste.leggTil(navn[i] + " ");
 		}
 		
-		System.out.println("Hele listen med alle navnene");
+		System.out.println("Hele listen med alle navnene: ");
 		System.out.println(liste);
 		
 		

@@ -15,7 +15,7 @@ public class DobbelKjedetOrdnetListe<T extends Comparable<T>> implements DobbelK
 		this.siste.setForrige(foerste);
 		antall=0;
 	}
-
+	
 	@Override
 	public void leggTil(T el) {
 		DobbelNode<T> nyNode = new DobbelNode<T>(el);

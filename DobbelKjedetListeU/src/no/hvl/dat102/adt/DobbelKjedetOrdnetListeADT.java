@@ -7,7 +7,7 @@ public interface DobbelKjedetOrdnetListeADT<T> {
 	 * @param el er elementet som skal legges til
 	 */
 	void leggTil(T el);
-
+	
 	/**
 	 * 
 	 * @param el er elementet som skal fjernes hvis det fins
