@@ -8,7 +8,7 @@ public class Svar {
 		String Alpha = "()nchc()";
 		String Beta = "jsdu(()]";
 		
-		System.out.println("True hvis den er balansert, false hvis den ikke er balansert");
+		System.out.println("True hvis den er balansert, false hvis den ikke er balansert: ");
 		
 		System.out.println("\nAlpha: ");
 		System.out.println(stabel.erBalansert(Alpha));
