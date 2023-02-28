@@ -30,8 +30,8 @@ public class Oppgave__2d {
 		System.out.println("\nAlle elementene i listen");	
 		liste.visListe();
 		
-	//	Husk å spørre om hvordan man bruker finn-metoden	
-		// liste.finn("Beru");
+		System.out.println();
+		System.out.println(liste.fjern("Beru "));
 		
 	}
 
